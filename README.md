@@ -167,10 +167,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{bert_classification_three_approaches,
-  author = {Your Name},
+  author = {Abdullah Emara},
   title = {BERT-Based Text Classification: Three Approaches Comparison},
-  year = {2024},
-  url = {https://github.com/yourusername/bert-classification-three-approaches}
+  year = {2025},
+  url = {https://github.com/Abdullah182155/bert-classification-three-approaches}
 }
 ```
 
@@ -188,7 +188,7 @@ If you use this code in your research, please cite:
 
 <div align="center">
   
-**Made with ❤️ by [Abdullah Ashraf]**
+**Made with ❤️ by [Abdullah Emara]**
 
 
 
